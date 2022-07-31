@@ -1,1 +1,2 @@
 # Seoul_ICT_InnovationSquare_Practice
+AI_Practice_ICTIS
